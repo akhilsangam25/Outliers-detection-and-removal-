@@ -2,8 +2,8 @@
 Problem Statement¶
 Outlier detection and removal using:
 
-Z-score
-Percentile
+1).Z-score
+2).Percentile
 
 Z-score method
 Z-score method can only be applied on columns with normal or almost normal distribution.
